@@ -42,6 +42,10 @@
     nav a:hover {
       text-decoration: underline;
     }
+
+    #current {
+      text-decoration: underline;
+    }
     
     #home {
       text-align: center;
@@ -77,6 +81,10 @@
     
     #projects {
       text-align: center;
+    }
+
+    #contact {
+      padding: 2rem;
     }
 
     footer {
